@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, eu sou o Adriano. 
 
-<!--
-**adrianomqsmts/adrianomqsmts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soft Skills 
 
-Here are some ideas to get you started:
+- Competitivo
+- Ouvinte
+- Paciente
+- Resumista
+- Compromissado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hard Skills
+
+- Programming: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- languages: ![HTML][https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]
