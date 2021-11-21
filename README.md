@@ -21,6 +21,9 @@ Sou formando em Ciência da Computação pela Universidade Federal de Viçosa - 
 Apache NetBeans | Visual Studio Code 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianomqsmts&show_icons=true&theme=radical)
+
+
 ## Contact
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) adrianomqsmts@gmail.com
