@@ -4,13 +4,6 @@ Sou formando em Ciência da Computação pela Universidade Federal de Viçosa - 
 
 ![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianomqsmts&show_icons=true&theme=radical)
 
-## Soft Skills 
-
-- Competitivo
-- Ouvinte
-- Paciente
-- Resumista
-- Compromissado
 
 ## Hard Skills
 
