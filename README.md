@@ -1,6 +1,6 @@
 # Olá, eu sou o Adriano. 
 
-Sou formando em Ciência da Computação pela Universidade Federal de Viçosa - Campus Florestal. 
+Sou graduado em Ciência da Computação pela Universidade Federal de Viçosa - Campus Florestal. 
 
 ![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianomqsmts&show_icons=true&theme=radical)
 
