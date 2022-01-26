@@ -13,7 +13,7 @@ Sou graduado em Ciência da Computação pela Universidade Federal de Viçosa - 
 
 - Software & Tools: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomqsmts&layout=compact&hide=css,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomqsmts&layout=compact&hide=css,scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
